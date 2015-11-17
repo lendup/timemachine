@@ -5,14 +5,9 @@ Test your time-dependent app by monkey patching the `Date` function and **overri
 
 ## Installation
 
-### Bower
-```sh
-$ bower install timemachine
-```
-
 ### NPM
 ```sh
-$ npm install timemachine
+$ npm install @aftership/timemachine
 ```
 
 ## Usage
