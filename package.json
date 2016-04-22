@@ -1,5 +1,5 @@
 {
-  "name": "@aftership/timemachine",
+  "name": "timemachine",
   "version": "0.2.6",
   "description": "Test your time critical app by overriding the native Javascript Date function",
   "main": "timemachine.js",
